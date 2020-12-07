@@ -1,0 +1,4 @@
+﻿  HashFunc.cpp
+e:\c++\study\hash function\hashfunc\hashfunc\hashfunc.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+  HashFunc.vcxproj -> E:\c++\study\Hash Function\HashFunc\Debug\HashFunc.exe
+  HashFunc.vcxproj -> E:\c++\study\Hash Function\HashFunc\Debug\HashFunc.pdb (Full PDB)
